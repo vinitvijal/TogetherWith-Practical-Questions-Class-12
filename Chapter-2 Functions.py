@@ -193,6 +193,6 @@
 
 # Questions - 19
 
-def cubic(x):
-    return x*x*x
-print(cubic(5))
+# def cubic(x):
+#     return x*x*x
+# print(cubic(5))
